@@ -7,10 +7,6 @@
     {
       "roomId": "HhVrDzdfsW-dS0YGOzrV3",
       "roomName": "261207 Tutorial"
-    },
-    {
-      "roomId": "-lmd5Sm2tNGbCs_fF49Zl",
-      "roomName": "Spoil One Piece"
     }
   ],
   "messages": [
@@ -28,11 +24,6 @@
       "roomId": "HhVrDzdfsW-dS0YGOzrV3",
       "messageId": "mBE0AghdK3uwb_yvX9n35",
       "messageText": "Can anyone teach me RESTFul API?"
-    },
-    {
-      "roomId": "okhkUzffzCGMqtfC1uv6x",
-      "messageId": "BMIOZUT3S1bX99RyoyLY6",
-      "messageText": "สวัสดีจ่ะ"
     }
   ],
   "users": [
